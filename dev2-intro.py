@@ -1,1 +1,1 @@
-print("Hi thi is Dev 2")
+print("Hi this is Dev 2")
