@@ -1,7 +1,0 @@
-##Assignment 2
-print('Hello World')
-<<<<<<< HEAD
-print('Code for assignment 2')
-=======
-print("This is for assignment 2")
->>>>>>> feature2
